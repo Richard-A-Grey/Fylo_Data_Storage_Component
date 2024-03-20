@@ -8,13 +8,65 @@ body{
     background-image: url(images/bg-desktop.png);
     background-repeat: no-repeat;
     background-size: cover%;
-    background-position-y: -80%;
+    background-position-y: -70%;
     background-color: hsl(229, 57%, 11%);
     overflow-y: hidden;
     overflow-x: hidden;
     font-family: 'Raleway';
     color: hsl(243, 100%, 93%);
 }
+
+.container1{
+    background-color: hsl(228, 56%, 26%);
+    width: 20%;
+    border-radius: 5px;
+    border-top-right-radius: 70px;
+    padding: 1.5%;
+    display: flex;
+    position: absolute;
+    top: 35%;
+    right: 55%;
+    padding-bottom: 8%;
+}
+.item1 img{
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+.item2{
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 10%;
+    background-color: hsl(229, 57%, 11%);
+    border: 10px solid hsl(229, 57%, 11%);
+    border-radius: 5px;
+    height: 20px;
+}
+.item3{
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 26%;
+    background-color: hsl(229, 57%, 11%);
+    border: 10px solid hsl(229, 57%, 11%);
+    border-radius: 5px;
+    height: 20px;
+}
+.item4{
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    background-color: hsl(229, 57%, 11%);
+    border: 10px solid hsl(229, 57%, 11%);
+    border-radius: 5px;
+    height: 20px;
+}
+
+
+
+
 
 
 
